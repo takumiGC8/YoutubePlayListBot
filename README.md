@@ -17,6 +17,8 @@ $ cd project_name
 $ npm install
 ```
 
+`config.json`にdiscord botのトークンとyoutubeのプレイリストIDを入力してください
+
 
 # 実行
 ```
