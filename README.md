@@ -7,6 +7,9 @@ DIscord bot x youtubeDataApi
 事前にYoutubeのチャンネルを作成して空のプレイリストを作成してください
 
 youtubeDataApiを利用するのに必要な設定を済ませてから、`client_secret.json`をダウンロードしてプロジェクトフォルダに配置してください
+
+[公式ドキュメント](https://developers.google.com/youtube/registering_an_application?hl=ja)
+
 # インストール
 `git clone`が完了したらこのプロジェクトに移動してください
 ```
