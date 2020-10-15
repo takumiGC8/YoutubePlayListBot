@@ -8,6 +8,8 @@ DIscord bot x youtubeDataApi
 
 youtubeDataApiを利用するのに必要な設定を済ませてから、`client_secret.json`をダウンロードしてプロジェクトフォルダに配置してください
 
+[GoogleAPIs](https://console.developers.google.com/)
+
 [公式ドキュメント](https://developers.google.com/youtube/registering_an_application?hl=ja)
 
 # インストール
