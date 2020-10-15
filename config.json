@@ -1,0 +1,8 @@
+{
+  "discord": {
+    "token": "ここにディスコードのトークン"
+  },
+  "server": {
+    "playlistId": "ここにプレイリストのID"
+  }
+}
